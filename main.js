@@ -1,6 +1,6 @@
 /**
  *
- * Official Script By Fokus ID
+ * Official Script By DILZPX 
  * 
  * Thanks buat semua yg sudah meng-support saya🙏
  * 
@@ -28,9 +28,9 @@
  *
  *
  * Jika ada masalah atau hal lain bisa hubungi kami disini:
- * Email: mr.familia13@gmail.com
- * Phone / WA: 081320170984
- * URI WA: https://wa.me/6281320170984
+ * Email: aidilgm000@gmail.com
+ * Phone / WA: 081380448281
+ * URI WA: https://wa.me/6281380448281
  *
  *
  * Terimakasih telah menggunakan dengan bijak!
